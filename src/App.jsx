@@ -51,7 +51,7 @@ function App() {
         <div className="hero-portfolio-content">
           <p className="greeting">Hi, I am</p>
           <h1 className="name">Sachin Zanzrukiya</h1>
-          <h2 className="role">Frontend Developer</h2>
+          <h2 className="role">Web Designer / Frontend Developer</h2>
           <p className="description">
             Hi, I'm Sachin, a passionate Frontend Developer with hands-on
             experience in building responsive and user-friendly websites. I
@@ -65,7 +65,7 @@ function App() {
             >
               Download CV
             </a>
-            <a href="#" className="btn-contact">
+            <a href="/contact" className="btn-contact">
               Contact Me
             </a>
           </div>
@@ -258,6 +258,12 @@ function App() {
                   target="_blank"
                 >
                   View Code
+                </a>
+                <a
+                  href="https://furniture-ecommerce-rog4.vercel.app/"
+                  target="_blank"
+                >
+                  Live Demo
                 </a>
               </div>
             </div>
